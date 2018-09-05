@@ -1,0 +1,15 @@
+---
+title: 智慧考勤
+subtitle: 掌静脉智慧考勤管理系统
+layout: default
+modal-id: 3
+date: 2018-09-05
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: 2018年7月
+client: 智慧考勤设备
+category: JavaFX Project
+description: 基于掌静脉识别的考勤系统，可以实现刷手打卡，统计报表等功能。
+
+---

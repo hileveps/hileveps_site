@@ -1,0 +1,56 @@
+url: 'http://www.hileveps.com'
+baseurl: ''
+
+# Site settings
+title: 西安慧伦普斯信息科技有限公司
+email: hileveps@hileveps.com
+description: "慧伦普斯主要着力于将基于静脉认证的生物识别技术，与智慧社区，智慧安防等相关应用领域的信息化建设相结合，提供软硬件一体的领域解决方案。"
+
+# Team names, titles and social links
+people:
+- name: 张维先
+  pic: 1
+  position: 总经理&董事
+  social:
+    - title: weibo
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: 代如刚
+  pic: 2
+  position: 技术总监
+  social:
+    - title: weibo
+      url: #
+    - title: github
+      url: #
+    - title: linkedin
+      url: #
+
+- name: 李新林
+  pic: 3
+  position: 硬件主管
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://www.github.com/hileveps
+
+# Postal address (add as many lines as necessary)
+# address:
+#  - line: 3481 Melrose Place
+#  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty

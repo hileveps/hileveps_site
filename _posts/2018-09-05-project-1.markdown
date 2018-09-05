@@ -1,0 +1,15 @@
+---
+title: 智慧平台
+subtitle: 智慧物联网管理平台
+layout: default
+modal-id: 1
+date: 2018-09-05
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: 2018年7月
+client: Browser
+category: Web Project
+description: 我公司提供的所有物联网设备的智能管理平台。
+
+---
