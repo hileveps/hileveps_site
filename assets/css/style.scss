@@ -1,0 +1,21 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+@charset "utf-8";
+
+$base-color-primary: #fed136;
+// $base-color-primary: #1568ea;
+$base-color-secondary: #fec503;
+$base-color-secondary-dark: #333;
+$base-color-muted: #777;
+
+// Font Families
+$base-font-primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif';
+$base-font-secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif';
+
+@import
+        "resources/bootstrap.min",
+        "resources/agency";
+

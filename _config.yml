@@ -54,3 +54,5 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+sass:
+    style: compact # possible values: nested expanded compact compressed
